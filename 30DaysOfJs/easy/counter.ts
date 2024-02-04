@@ -1,5 +1,5 @@
 /**
- * https://leetcode.com/problems/counter/description/
+ * @link https://leetcode.com/problems/counter/description/
  * */
 function createCounter(n: number): () => number {
     return function() {

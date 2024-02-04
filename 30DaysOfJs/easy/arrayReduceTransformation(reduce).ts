@@ -1,4 +1,6 @@
-/**https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript */
+/**
+ * @link https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript
+ * */
 
 type Fn = (accum: number, curr: number) => number
 

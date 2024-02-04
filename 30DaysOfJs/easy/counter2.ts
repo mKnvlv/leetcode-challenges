@@ -1,5 +1,5 @@
 /**
- * https://leetcode.com/problems/counter-ii/?envType=study-plan-v2&envId=30-days-of-javascript
+ * @link https://leetcode.com/problems/counter-ii/?envType=study-plan-v2&envId=30-days-of-javascript
  */
 
 type Counter = {
